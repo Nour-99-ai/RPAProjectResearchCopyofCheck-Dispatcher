@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Vso34454KUKlWeqsgIy_pg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/103653155" DesignTimeRectangle="383, 574, 466, 100" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzyAccuracy="0.91" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='' aaname='                          DB83622                          599272                          1511443 USD                                              ' /&gt;" Guid="7437d481-bd4e-4479-82af-bbfd11cb1b08" ImageBase64="" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="07dfffb1a16de0032477e52deb3c88c7.png" xmlns="">0lSvltAXv60eZAz3bKOiOgw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
